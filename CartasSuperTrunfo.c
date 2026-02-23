@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//versão atualizada, desafio cumprido.
+
 int main() {
     char estado0, estado1, cidade0[20], cidade1[20];
     int numero_carta0, numero_carta1, populacao0, populacao1, pontos_turisticos0, pontos_turisticos1;
